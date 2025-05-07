@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PlatformIO-RTOS_DHT11-Task
 
 This project demonstrates the use of FreeRTOS tasks on an ESP32 to read data from a DHT11 sensor and send it to a ThingsBoard server via MQTT. The project is implemented using PlatformIO.
@@ -119,3 +120,6 @@ monitor_speed = 115200
 build_flags =
     -D ARDUINO_USB_MODE=1
     -D ARDUINO_USB_CDC_ON_BOOT=1
+=======
+# IoT_Lab3
+>>>>>>> 148ace8f10cd1c73363820262e4603de39a44128
